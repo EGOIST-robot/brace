@@ -12,9 +12,6 @@
     "url": "git://github.com/thlorenz/brace.git"
   },
   "homepage": "https://github.com/thlorenz/brace",
-  "dependencies": {
-    "w3c-blob": "0.0.1"
-  },
   "devDependencies": {
     "browserify": "~4.2.0",
     "opener": "~1.3.0",
